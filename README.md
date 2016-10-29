@@ -1,2 +1,5 @@
 # hello_world
-ex repository
+
+Hi!
+    
+  I will start from now on!come on!!!
